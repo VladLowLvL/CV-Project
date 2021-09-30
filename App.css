@@ -1,0 +1,9 @@
+body {
+  background-color: #fef2f2;
+}
+
+#main-container {
+  margin: 2%;
+  padding: 2%;
+  box-shadow: black;
+}
